@@ -1,0 +1,5 @@
+*.npy
+train_model.py
+prediction_result.png
+predict.py
+I general.txt
